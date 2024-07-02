@@ -1,1 +1,3 @@
 # ANN_Classification
+
+This model is a simple neural network with 3 hidden layers. The input layer has 12 nodes, the first hidden layer has 6 nodes, the second hidden layer has 4 nodes, and the output layer has 1 node. The activation function used in the hidden layers is the ReLU function, and the output layer uses the sigmoid function. The model was trained on a dataset of customer information, including features such as age, gender, geography, balance, credit score, estimated_salary, tenure, number of products, has credit card or not etc and it predicts whether the customer is likely to stay or not.
